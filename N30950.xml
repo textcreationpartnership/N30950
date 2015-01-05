@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:041003_0000_101A133A1EC76CD0"/>
-            <pb facs="tcp:041003_0001_101A133C14E41948"/>
+            <pb facs="unknown:041003_0000_101A133A1EC76CD0"/>
+            <pb facs="unknown:041003_0001_101A133C14E41948"/>
             <p>The unfortunate HERO;</p>
             <p>A PINDARIC ODE.</p>
             <p>Occaſion'd by the lamented Fate of Viſcount <hi>George Auguſtus Howe,</hi> Baron of <hi>Clenawley,</hi> &amp;c.</p>
@@ -152,7 +152,7 @@
                <hi>NEW-YORK:</hi> Printed by <hi>Parker</hi> and <hi>Weyman,</hi> 1758.</p>
          </div>
          <div type="authors_note">
-            <pb facs="tcp:041003_0002_101A133E269A1C50"/>
+            <pb facs="unknown:041003_0002_101A133E269A1C50"/>
             <head>Advertiſement.</head>
             <p>THE two following Odes were compos'd on their reſpective Oc<g ref="char:EOLhyphen"/>caſions, merely for the Author's Amuſement and the Entertain<g ref="char:EOLhyphen"/>ment of his Friends; but their Importunity and favourable, not to ſay partial, Judgment of them, have induc'd him to preſent them to publick View, not without ſome Hope, that they may meet with a kind Reception, if not by their intrinſick Merit, at leaſt by their Re<g ref="char:EOLhyphen"/>lation to thoſe important and intereſting Events which gave them Birth.</p>
             <p>As the Life of Lord <hi>HOWE</hi> was unſpeakably valuable, ſo his Death is, and it were aſtoniſhing if it were not, moſt ſincerely and univerſally lamented: And indeed I know not, whether the ſad Ca<g ref="char:EOLhyphen"/>taſtrophe which ſucceeded his Fall, tho' attended with the Loſs of ſo many Lives, has occaſion'd more Regret, than the ſingle Fate of that illuſtrious and promſing young Hero. But the Reduction of <hi>Louiſ<g ref="char:EOLhyphen"/>bourg</hi> to his <hi>Britannick</hi> Majeſty muſt needs give inexpreſſible Pleaſure, and afford a moſt delightful Proſpect, to every one, in proportion as he apprehends its Importance to, and prizes the Welfare of, the <hi>Bri<g ref="char:EOLhyphen"/>tiſh</hi> Colonies in <hi>America,</hi>
@@ -166,7 +166,7 @@
       </front>
       <body>
          <div type="ode">
-            <pb facs="tcp:041003_0003_101A133FAA650ED0"/>
+            <pb facs="unknown:041003_0003_101A133FAA650ED0"/>
             <head>The Unfortunate HERO; An ODE.</head>
             <lg n="1">
                <head>I.</head>
@@ -186,7 +186,7 @@
                <l>And crown his Mem'ry with a grateful Verſe.</l>
             </lg>
             <lg n="2">
-               <pb n="4" facs="tcp:041003_0004_101A1341739F2DF0"/>
+               <pb n="4" facs="unknown:041003_0004_101A1341739F2DF0"/>
                <head>II.</head>
                <l>Come all ye gen'rous Souls that know,</l>
                <l>What tis to feel a patriot Woe,</l>
@@ -225,7 +225,7 @@
                <l>Nor dread the awful Horrors of the wild Campaign.</l>
             </lg>
             <lg n="4">
-               <pb n="5" facs="tcp:041003_0005_101A1342F779B0D0"/>
+               <pb n="5" facs="unknown:041003_0005_101A1342F779B0D0"/>
                <head>IV.</head>
                <l>Noble without a Thought of Pride,</l>
                <l>And great without Diſdain,</l>
@@ -263,7 +263,7 @@
                      <desc>•</desc>
                   </gap>erſt <hi>Aſtrea,</hi> to her native Skies.</l>
                <l>
-                  <pb n="6" facs="tcp:041003_0006_101A1344B14B9160"/>But when kind Providence from far</l>
+                  <pb n="6" facs="unknown:041003_0006_101A1344B14B9160"/>But when kind Providence from far</l>
                <l>Call'd HOWE, her Vot'ry, to the Field of War,</l>
                <l>There ſhe reſum'd her former Throne,</l>
                <l>There, in the midſt of Arms,</l>
@@ -300,7 +300,7 @@
                <l>When he abridg'd his Hours of Reſt,</l>
                <l>And in continual Labours worried out the Day!</l>
                <l>
-                  <pb n="7" facs="tcp:041003_0007_101A1346C15F1AD0"/>Such were the Warriors of the Days of old,</l>
+                  <pb n="7" facs="unknown:041003_0007_101A1346C15F1AD0"/>Such were the Warriors of the Days of old,</l>
                <l>Such <hi>Cincinnatus,</hi> ſuch <hi>Camillus</hi> bold,</l>
                <l>And the great <hi>Scipio</hi>'s roſe;<note n="†" place="bottom">
                      <q>
@@ -341,7 +341,7 @@
                <l>How clos'd a Life employ'd ſo well,</l>
                <l>How brave the Hero fought and how divine he fell.—</l>
                <l>
-                  <pb n="8" facs="tcp:041003_0008_101A09F894766B28"/>Behold! with what a noble Mien,</l>
+                  <pb n="8" facs="unknown:041003_0008_101A09F894766B28"/>Behold! with what a noble Mien,</l>
                <l>All animated yet ſerene.</l>
                <l>He meets the ambuſh'd Foe!</l>
                <l>Warm in his Countries Cauſe,</l>
@@ -376,7 +376,7 @@
                <l>Let him not triumph o'er the Brave;</l>
                <l>But feel juſt Vengeance for an Hero ſlain.—</l>
                <l>
-                  <pb n="9" facs="tcp:041003_0009_101A13484535A9F8"/>Tis done—the righteous Skies</l>
+                  <pb n="9" facs="unknown:041003_0009_101A13484535A9F8"/>Tis done—the righteous Skies</l>
                <l>Forbid the riſing Boaſt,</l>
                <l>From the ſurrounding Hoſt</l>
                <l>His Crime recoils upon his Head,</l>
@@ -408,7 +408,7 @@
             <p>In the Advertiſement, in the 19th Line, read, (which he is<hi> not </hi>ignorant of)</p>
          </div>
          <div type="ode">
-            <pb n="10" facs="tcp:041003_0010_101A134AD7CF8CF0"/>
+            <pb n="10" facs="unknown:041003_0010_101A134AD7CF8CF0"/>
             <head>An ODE, On the Surrender of <hi>Louiſbourg, July</hi> 27, 1758.</head>
             <lg n="1">
                <head>I.</head>
@@ -452,7 +452,7 @@
                <l>Nor longer dare,</l>
                <l>With your bold Taunts inſult the Brave;</l>
                <l>
-                  <pb n="11" facs="tcp:041003_0011_101A134CA0637D18"/>Hear to your Shame,</l>
+                  <pb n="11" facs="unknown:041003_0011_101A134CA0637D18"/>Hear to your Shame,</l>
                <l>The Voice of Fame,</l>
                <l>"<hi>France</hi> in her turn has fed the Grave.</l>
             </lg>
@@ -513,7 +513,7 @@
                <l>That rules the Sea,</l>
                <l>He bids its raging Billows riſe;</l>
                <l>
-                  <pb n="12" facs="tcp:041003_0012_101A134EAF0A5FA8"/>At his Controul,</l>
+                  <pb n="12" facs="unknown:041003_0012_101A134EAF0A5FA8"/>At his Controul,</l>
                <l>They ceaſe to roll,</l>
                <l>And all the mighty Tumult dies.</l>
             </lg>
@@ -568,7 +568,7 @@
                <l>He guards to land,</l>
                <l>And fires amid the wild uproar;</l>
                <l>
-                  <pb n="13" facs="tcp:041003_0013_101A135031AF9EA8"/>O'er daſhing Waves,</l>
+                  <pb n="13" facs="unknown:041003_0013_101A135031AF9EA8"/>O'er daſhing Waves,</l>
                <l>And gaping Graves,</l>
                <l>Fearleſs they climb the rocky Shore<g ref="char:punc">▪</g>
                </l>
@@ -626,7 +626,7 @@
                <l>"Thy conq'ring Sword</l>
                <l>"Has glorious but tremendous Charms;</l>
                <l>
-                  <pb n="14" facs="tcp:041003_0014_101A1351C3E8DAC0"/>"What Mortal dare</l>
+                  <pb n="14" facs="unknown:041003_0014_101A1351C3E8DAC0"/>"What Mortal dare</l>
                <l>"With THEE compare?</l>
                <l>"How dreadful is a GOD in Arms!</l>
             </lg>
@@ -679,7 +679,7 @@
                <l>And all grow great in <hi>Britain's</hi> Cauſe.</l>
             </lg>
             <lg n="29">
-               <pb n="15" facs="tcp:041003_0015_101A1353C989A680"/>
+               <pb n="15" facs="unknown:041003_0015_101A1353C989A680"/>
                <head>XXIX.</head>
                <l>Bold Sons of War!</l>
                <l>Who nobly dare</l>
